@@ -1,0 +1,24 @@
+{
+  "name": "mobimath",
+  "version": "1.0.2",
+  "description": "A basic math package that anyone can use. Add, Subtract, Multiply, Divide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "MOBI"
+  },
+  "keywords": [
+    "Math",
+    "Basic",
+    "MOBI"
+  ],
+  "author": "MOBI",
+  "license": "ISC",
+  "dependencies": {
+    "mobimath": "^1.0.0"
+  },
+  "devDependencies": {}
+}

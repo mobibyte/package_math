@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+input {
+    font-size: 15px;
+}
+
+button {
+    font-size: large;
+    color:white;
+    padding: 8px 8px;
+    background-color: black;
+
+}
